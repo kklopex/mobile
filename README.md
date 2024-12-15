@@ -1,6 +1,8 @@
 <h1> 📱 Nearby Application ⚛️ </h1>
 
-Nearby é um aplicativo construído para localizar restaurantes e bares próximos com visualização no mapa e com função de cupom de desconto utilizando leitura do QRCode pelo aplicativo. 🚀
+<h2>Nearby é um aplicativo construído para localizar restaurantes e bares próximos com visualização no mapa e com função de cupom de desconto utilizando leitura do QRCode pelo aplicativo. 🚀 </h2>
+
+<h3>O projeto foi realizado em conjunto com o evento NLW Pocket React Native. 🌟 </h3>
 
 ## Pré-requisitos
 
