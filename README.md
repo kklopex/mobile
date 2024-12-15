@@ -1,4 +1,4 @@
-📱 Nearby Application
+<h1> 📱 Nearby Application ⚛️ </h1>
 
 Nearby é um aplicativo construído para localizar restaurantes e bares próximos com visualização no mapa e com função de cupom de desconto utilizando leitura do QRCode pelo aplicativo. 🚀
 
