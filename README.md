@@ -1,4 +1,4 @@
-# Nearby Application
+📱 Nearby Application
 
 Nearby é um aplicativo construído para localizar restaurantes e bares próximos com visualização no mapa e com função de cupom de desconto utilizando leitura do QRCode pelo aplicativo. 🚀
 
@@ -16,8 +16,8 @@ Certifique-se de ter os seguintes itens instalados em sua máquina:
 1. **Clone o repositório**: 🛠️
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-   cd NOME_DO_REPOSITORIO
+   git clone https://github.com/kklopex/nearby.git
+   cd nearby
    ```
 
 2. **Instale as dependências**: 📥
@@ -59,7 +59,7 @@ Certifique-se de ter os seguintes itens instalados em sua máquina:
 
 ## Design
 
-Adicione aqui o link para o protótipo no Figma: [Figma do Projeto](#) 🎨
+https://www.figma.com/design/aaLF9drpxgXvNLIDwWLXau/NLW-Pocket-Mobile-%E2%80%A2-Nearby-(Community)?node-id=0-1&p=f&t=fsMKgIWU1m9FjUO6-0 (#) 🎨
 
 ## Contribuição
 
